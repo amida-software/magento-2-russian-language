@@ -4748,7 +4748,7 @@ new products will be created. Use this step to customize images and price for yo
 "Configure","Настроить",module,Magento_Customer
 "Delete","Удалить",module,Magento_Customer
 "Shopping Cart from %1","Корзина из %1",module,Magento_Customer
-"Newsletter","Новостная рассылка",module,Magento_Customer
+"Newsletter","Рассылка",module,Magento_Customer
 "Newsletter Information","Newsletter Information",module,Magento_Customer
 "Subscribed to Newsletter","Подписка на рассылку",module,Magento_Customer
 "Last Date Subscribed","Дата последней подписки",module,Magento_Customer
@@ -8086,7 +8086,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Cart Price Rules","Cart Price Rules",module,Magento_Logging
 "Admin My Account","Admin My Account",module,Magento_Logging
 "Newsletter Queue","Очередь рассылки",module,Magento_Logging
-"Newsletter Templates","Newsletter Templates",module,Magento_Logging
+"Newsletter Templates","Шаблоны новостных сообщений",module,Magento_Logging
 "Newsletter Subscribers","Newsletter Subscribers",module,Magento_Logging
 "Sales Orders","Sales Orders",module,Magento_Logging
 "Sales Order Status","Sales Order Status",module,Magento_Logging
@@ -8956,17 +8956,17 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Sender","Отправитель",module,Magento_Newsletter
 "Template Type","Тип Шаблона",module,Magento_Newsletter
 "Action","Действие",module,Magento_Newsletter
-"Queue Newsletter","Queue Newsletter",module,Magento_Newsletter
+"Queue Newsletter","Очередь рассылки",module,Magento_Newsletter
 "We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
 "The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
 "Newsletter Problems Report","Newsletter Problems Report",module,Magento_Newsletter
 "Newsletter Problem Reports","Newsletter Problem Reports",module,Magento_Newsletter
-"Newsletter Queue","Newsletter Queue",module,Magento_Newsletter
+"Newsletter Queue","Очередь рассылки",module,Magento_Newsletter
 "Edit Queue","Edit Queue",module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
 "You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
 "Newsletter Subscribers","Newsletter Subscribers",module,Magento_Newsletter
-"Newsletter","Новостная рассылка",module,Magento_Newsletter
+"Newsletter","Рассылка",module,Magento_Newsletter
 "Subscribers","Подписчики",module,Magento_Newsletter
 "Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Newsletter
@@ -10817,7 +10817,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipping Report","Shipping Report",module,Magento_Reports
 "Tax Report","Tax Report",module,Magento_Reports
 "Shopping Cart","Корзина",module,Magento_Reports
-"Abandoned Carts","Abandoned Carts",module,Magento_Reports
+"Abandoned Carts","Брошенные корзины",module,Magento_Reports
 "Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
 "Products in Carts","Products in Carts",module,Magento_Reports
 "Statistics","Статистика",module,Magento_Reports
@@ -11915,9 +11915,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Information","Информация",module,Magento_Sales
 "Order Information","Информация о заказе",module,Magento_Sales
 "Order Invoices","Order Invoices",module,Magento_Sales
-"Shipments","Shipments",module,Magento_Sales
+"Shipments","Отправки",module,Magento_Sales
 "Order Shipments","Order Shipments",module,Magento_Sales
-"Transactions","Transactions",module,Magento_Sales
+"Transactions","Транзакции",module,Magento_Sales
 "Order View","Order View",module,Magento_Sales
 "Any","Любой",module,Magento_Sales
 "Specified","Specified",module,Magento_Sales
@@ -13253,7 +13253,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
 "Email to a Friend","Письмо другу",module,Magento_SendFriend
-"Email Templates","Email Templates",module,Magento_SendFriend
+"Email Templates","Шаблоны сообщений",module,Magento_SendFriend
 "Enabled","Включено",module,Magento_SendFriend
 "Select Email Template","Select Email Template",module,Magento_SendFriend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Шаблон E-mail выбран на основе темы резервного варианта при выборе параметра «По умолчанию».",module,Magento_SendFriend
@@ -14554,7 +14554,7 @@ than a customer might expect. ",module,Magento_Tax
 "Save Configuration","Сохранить конфигурацию",module,Magento_Theme
 "%1","%1",module,Magento_Theme
 "Default","По умолчанию",module,Magento_Theme
-"Themes","Themes",module,Magento_Theme
+"Themes","Темы",module,Magento_Theme
 "Save and Continue Edit","Сохранить и продолжить редактирование",module,Magento_Theme
 "Are you sure you want to delete this theme?","Are you sure you want to delete this theme?",module,Magento_Theme
 "Theme: %1","Theme: %1",module,Magento_Theme
@@ -16416,3 +16416,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The widget %1 is no longer available. Select a different widget.","Виджет %1 больше не доступен. Выберите другой виджет.",lib,web
 "First character must be letter.","Первый символ должен быть буквой.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","Пароль не должен совпадать с адресом электронной почты. Создайте новый пароль и повторите попытку.",lib,web
+"Customer Engagement","Привлечения клиентов"
+"Importer Status","Статус импортера"
+"Automation Enrollment","Автоматизация регистрации"
