@@ -3283,7 +3283,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit item parameters","Изменить параметры позиции",module,Magento_Checkout
 "Edit","Редактировать",module,Magento_Checkout
 "Remove item","Удалить позицию",module,Magento_Checkout
-"You have no items in your shopping cart.","You have no items in your shopping cart.",module,Magento_Checkout
+"You have no items in your shopping cart.","Ваша корзина пуста.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Нажмите <a href=""%1""> здесь</a>чтобы продолжить покупки.",module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
@@ -3549,7 +3549,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We cannot delete directory %1.","Невозможно удалить каталог %1.",module,Magento_Cms
 "We can't upload the file right now.","Невозможно загрузить файл прямо сейчас.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Невозможно удалить корневой каталог %1 прямо сейчас.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Политика конфиденциальности и использования файлов cookie",module,Magento_Cms
 "Error message","Сообщение об ошибке",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
@@ -9014,8 +9014,8 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 " Copy"," Copy",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-"Subscribe","Subscribe",module,Magento_Newsletter
+"Enter your email address","Введите ваш адрес электронной почты",module,Magento_Newsletter
+"Subscribe","Подписаться",module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
@@ -11913,7 +11913,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Comments History","Comments History",module,Magento_Sales
 "Order History","История заказов",module,Magento_Sales
 "Information","Информация",module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
+"Order Information","Информация о заказе",module,Magento_Sales
 "Order Invoices","Order Invoices",module,Magento_Sales
 "Shipments","Shipments",module,Magento_Sales
 "Order Shipments","Order Shipments",module,Magento_Sales
@@ -12382,8 +12382,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
 "Shipped By","Shipped By",module,Magento_Sales
 "Tracking Number","Номер отслеживания",module,Magento_Sales
-"Billing Last Name","Billing Last Name",module,Magento_Sales
-"Find Order By","Find Order By",module,Magento_Sales
+"Billing Last Name","Фамилия для доставки",module,Magento_Sales
+"Find Order By","Искать заказ по",module,Magento_Sales
 "ZIP Code","Почтовый индекс",module,Magento_Sales
 "Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
 "Continue","Продолжить",module,Magento_Sales
@@ -13155,7 +13155,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Delete","Удалить",module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 "View/Edit","Просмотр/редактирование",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","Искать по всему магазину...",module,Magento_Search
 "There are no search terms available.","Нет доступных поисковых запросов.",module,Magento_Search
 "Search Engine","Поисковая система",module,Magento_Search
 "CSV","CSV",module,Magento_Search
