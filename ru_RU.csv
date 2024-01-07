@@ -296,7 +296,7 @@
 "API","API",module,Magento_Analytics
 "Configuration","Настройки",module,Magento_Analytics
 "Business Intelligence","Бизнес-аналитика",module,Magento_Analytics
-"BI Essentials","Би Essentials",module,Magento_Analytics
+"BI Essentials","Главное BI",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
@@ -367,7 +367,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Action Log","Журнал Транзакций",module,Magento_AsynchronousOperations
 "Report","Отчёт",module,Magento_AsynchronousOperations
 "Bulk Actions","Массовые Операции",module,Magento_AsynchronousOperations
-"Action Logs","Журнал Транзакций",module,Magento_AsynchronousOperations
+"Action Logs","Журнал транзакций",module,Magento_AsynchronousOperations
 "Days Saved in Log","Дни, сохранённые в журнале",module,Magento_AsynchronousOperations
 "Description of Operation","Описание операции",module,Magento_AsynchronousOperations
 "Summary","Резюме",module,Magento_AsynchronousOperations
@@ -1254,6 +1254,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Allowed Credit Card Types","Разрешенные типы кредитных карт",module,Magento_Braintree
 "Add Rule","Добавить правило",module,Magento_Braintree
 "Braintree Settlement Report","Расчетный отчет Braintree",module,Magento_Braintree
+"Braintree Virtual Terminal","Виртуальный терминал Braintree",module,Magento_Braintree
 "Sorry, but something went wrong","Извините, но что-то пошло не так",module,Magento_Braintree
 "We can't initialize checkout.","Мы не можем инициализировать оплату.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","Нет авторизации транзакции для продолжения записи.",module,Magento_Braintree
@@ -1493,7 +1494,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Edit My Credit Cards","Edit My Credit Cards",module,Magento_Braintree
 "Pay with PayPal","Pay with PayPal",module,Magento_Braintree
 "Transaction is cancelled offline.","Transaction is cancelled offline.",module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
+"Braintree Settlement","Расчет Braintree",module,Magento_Braintree
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.",module,Magento_Braintree
@@ -6524,7 +6525,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Please enter an encryption key.","Please enter an encryption key.",module,Magento_EncryptionKey
 "The encryption key has been changed.","The encryption key has been changed.",module,Magento_EncryptionKey
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
-"Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
+"Manage Encryption Key","Управление ключом шифрования",module,Magento_EncryptionKey
 "This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Это ваш новый ключ шифрования: <span style=""font-family:monospace;"">%1</span>. Обязательно запишите его и заботиться о нем!",module,Magento_EncryptionKey
 "Private Sales","Частные продажи",module,Magento_Enterprise
 "Payment Type","Тип платежа",module,Magento_Eway
@@ -8031,9 +8032,9 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Error Message","Error Message",module,Magento_Logging
 "Related Changes","Related Changes",module,Magento_Logging
 "Logging","Logging",module,Magento_Logging
-"Action Log","Журнал Транзакций",module,Magento_Logging
+"Action Log","Журнал транзакции",module,Magento_Logging
 "Archive","Архив",module,Magento_Logging
-"Action Logs","Action Logs",module,Magento_Logging
+"Action Logs",Журнал транзакций",module,Magento_Logging
 "Admin Actions Log Archiving","Admin Actions Log Archiving",module,Magento_Logging
 "Log Entry Lifetime, Days","Log Entry Lifetime, Days",module,Magento_Logging
 "Log Archiving Frequency","Log Archiving Frequency",module,Magento_Logging
@@ -8069,7 +8070,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Create","Создать",module,Magento_Logging
 "Catalog Products","Catalog Products",module,Magento_Logging
 "Catalog Categories","Catalog Categories",module,Magento_Logging
-"URL Rewrites","URL Rewrites",module,Magento_Logging
+"URL Rewrites",Перезапись URL-адресов",module,Magento_Logging
 "Catalog Search","Поиск по каталогу",module,Magento_Logging
 "Catalog Ratings","Catalog Ratings",module,Magento_Logging
 "Catalog Reviews","Catalog Reviews",module,Magento_Logging
@@ -8087,7 +8088,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Admin My Account","Admin My Account",module,Magento_Logging
 "Newsletter Queue","Очередь рассылки",module,Magento_Logging
 "Newsletter Templates","Шаблоны новостных сообщений",module,Magento_Logging
-"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Logging
+"Newsletter Subscribers","Подписчики рассылок",module,Magento_Logging
 "Sales Orders","Sales Orders",module,Magento_Logging
 "Sales Order Status","Sales Order Status",module,Magento_Logging
 "Sales Invoices","Sales Invoices",module,Magento_Logging
@@ -8102,12 +8103,12 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Manage Design","Управление дизайном",module,Magento_Logging
 "Manage Currency Rates","Manage Currency Rates",module,Magento_Logging
 "Transactional Emails","Transactional Emails",module,Magento_Logging
-"Custom Variables","Custom Variables",module,Magento_Logging
+"Custom Variables","Пользовательские переменные",module,Magento_Logging
 "System Backups","System Backups",module,Magento_Logging
 "Customer Tax Classes","Customer Tax Classes",module,Magento_Logging
 "Catalog Product Tax Classes","Catalog Product Tax Classes",module,Magento_Logging
-"Tax Rules","Tax Rules",module,Magento_Logging
-"Tax Rates","Tax Rates",module,Magento_Logging
+"Tax Rules","Налоговые правила",module,Magento_Logging
+"Tax Rates","Налоговые ставки",module,Magento_Logging
 "XML Sitemap","XML Sitemap",module,Magento_Logging
 "Widget","Виджет",module,Magento_Logging
 "Cache Management","Управление кэшем",module,Magento_Logging
@@ -8935,7 +8936,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Resume","Продолжить",module,Magento_Newsletter
 "Preview","Предварительный просмотр",module,Magento_Newsletter
 "Add New Template","Добавить новый шаблон",module,Magento_Newsletter
-"Newsletter Templates","Newsletter Templates",module,Magento_Newsletter
+"Newsletter Templates","Шаблоны новостных сообщений",module,Magento_Newsletter
 "Convert to Plain Text","Convert to Plain Text",module,Magento_Newsletter
 "Return HTML Version","Return HTML Version",module,Magento_Newsletter
 "Delete Template","Удалить шаблон",module,Magento_Newsletter
@@ -8959,13 +8960,13 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Queue Newsletter","Очередь рассылки",module,Magento_Newsletter
 "We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
 "The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
-"Newsletter Problems Report","Newsletter Problems Report",module,Magento_Newsletter
-"Newsletter Problem Reports","Newsletter Problem Reports",module,Magento_Newsletter
+"Newsletter Problems Report","Отчет о проблемах с новостной рассылкой",module,Magento_Newsletter
+"Newsletter Problem Reports","Отчеты о проблемах с новостной рассылкой",module,Magento_Newsletter
 "Newsletter Queue","Очередь рассылки",module,Magento_Newsletter
 "Edit Queue","Edit Queue",module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
 "You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
-"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Newsletter
+"Newsletter Subscribers",Подписчики рассылок",module,Magento_Newsletter
 "Newsletter","Рассылка",module,Magento_Newsletter
 "Subscribers","Подписчики",module,Magento_Newsletter
 "Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
@@ -9023,7 +9024,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter.",module,Magento_Newsletter
 "Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
-"Newsletter Template","Newsletter Template",module,Magento_Newsletter
+"Newsletter Template","Шаблоны новостных сообщений",module,Magento_Newsletter
 "Newsletter Section","Newsletter Section",module,Magento_Newsletter
 "Subscription Options","Subscription Options",module,Magento_Newsletter
 "Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
@@ -9680,7 +9681,7 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Sorry, something went wrong.","Извините, что-то пошло не так.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Извините, что-то пошло не так. Попробуйте еще раз.",module,Magento_Paypal
 "PayPal Section","PayPal Section",module,Magento_Paypal
-"PayPal Settlement","PayPal Settlement",module,Magento_Paypal
+"PayPal Settlement","Расчет PayPal",module,Magento_Paypal
 "Fetch","Fetch",module,Magento_Paypal
 "Actions","Действия",module,Magento_Paypal
 "Manage","Manage",module,Magento_Paypal
@@ -10708,7 +10709,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "CSV","CSV",module,Magento_Reports
 "Excel XML","Excel XML",module,Magento_Reports
 "Unlimited","Неограничено",module,Magento_Reports
-"Low stock","Low stock",module,Magento_Reports
+"Low stock","Низкий запас",module,Magento_Reports
 "Products Ordered","Products Ordered",module,Magento_Reports
 "Most Viewed","Наиболее просматриваемые",module,Magento_Reports
 "Show Report","Показать отчет",module,Magento_Reports
@@ -10793,7 +10794,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Order Count Report","Order Count Report",module,Magento_Reports
 "Order Total Report","Order Total Report",module,Magento_Reports
 "Downloads Report","Downloads Report",module,Magento_Reports
-"Low Stock","Low Stock",module,Magento_Reports
+"Low Stock","Низкий запас",module,Magento_Reports
 "Low Stock Report","Low Stock Report",module,Magento_Reports
 "Ordered Products Report","Ordered Products Report",module,Magento_Reports
 "Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
@@ -12632,7 +12633,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Orders","Заказы",module,Magento_SalesArchive
 "We have removed the order from the archive.","We have removed the order from the archive.",module,Magento_SalesArchive
 "Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive.",module,Magento_SalesArchive
-"Shipments","Shipments",module,Magento_SalesArchive
+"Shipments","Отправки",module,Magento_SalesArchive
 "There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.",module,Magento_SalesArchive
 "Archive","Архив",module,Magento_SalesArchive
 "Restore from Archive","Restore from Archive",module,Magento_SalesArchive
@@ -13474,7 +13475,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Cannot add new comment.","Не удается добавить новый комментарий.",module,Magento_Shipping
 "Please specify a carrier.","Укажите перевозчика.",module,Magento_Shipping
 "Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
-"Shipments","Shipments",module,Magento_Shipping
+"Shipments","Отправки",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
 "Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
 "You created the shipping label.","You created the shipping label.",module,Magento_Shipping
@@ -14380,7 +14381,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Tax","Налог",module,Magento_Tax
 "Manage Tax Rates","Manage Tax Rates",module,Magento_Tax
 "New Tax Rate","New Tax Rate",module,Magento_Tax
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_Tax
+"Tax Zones and Rates","Налоговые зоны и ставки",module,Magento_Tax
 "We can't delete this tax rate right now.","We can't delete this tax rate right now.",module,Magento_Tax
 "An error occurred while loading this tax rate.","An error occurred while loading this tax rate.",module,Magento_Tax
 "We can't save this rate right now.","We can't save this rate right now.",module,Magento_Tax
@@ -14472,7 +14473,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
 "Not yet calculated","Еще не рассчитана",module,Magento_Tax
-"Taxes","Taxes",module,Magento_Tax
+"Taxes","Налоги",module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Tax Classes",module,Magento_Tax
 "Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
@@ -14536,7 +14537,7 @@ than a customer might expect. ",module,Magento_Tax
 "Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
 "Range From","Range From",module,Magento_TaxImportExport
 "Range To","Range To",module,Magento_TaxImportExport
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
+"Tax Zones and Rates","Налоговые зоны и ставки",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
 "The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
 "Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
@@ -14548,7 +14549,7 @@ than a customer might expect. ",module,Magento_Tax
 "CSV","CSV",module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 "Country code is invalid: %1","Country code is invalid: %1",module,Magento_TaxImportExport
-"Import/Export Tax Rates","Import/Export Tax Rates",module,Magento_TaxImportExport
+"Import/Export Tax Rates","Ставки налога на импорт/экспорт",module,Magento_TaxImportExport
 "Back","Назад",module,Magento_Theme
 "Save and Continue","Save and Continue",module,Magento_Theme
 "Save Configuration","Сохранить конфигурацию",module,Magento_Theme
@@ -15190,7 +15191,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Create URL Rewrite","Create URL Rewrite",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","You deleted the URL rewrite.",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","We can't delete URL Rewrite right now.",module,Magento_UrlRewrite
-"URL Rewrites","URL Rewrites",module,Magento_UrlRewrite
+"URL Rewrites","Перезапись URL-адресов",module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.","The product you chose is not associated with the selected store or category.",module,Magento_UrlRewrite
 "The category you chose is not associated with the selected store.","The category you chose is not associated with the selected store.",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","The URL Rewrite has been saved.",module,Magento_UrlRewrite
@@ -15274,10 +15275,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please correct this email address:","Please correct this email address:",module,Magento_User
 "Please enter an email address.","Пожалуйста, введите адрес электронной почты.",module,Magento_User
 "You updated your password.","Вы обновили ваш пароль.",module,Magento_User
-"Locked Users","Locked Users",module,Magento_User
+"Locked Users","Заблокированные пользователи",module,Magento_User
 "Unlocked %1 user(s).","Unlocked %1 user(s).",module,Magento_User
 "System","Система",module,Magento_User
-"Permissions","Permissions",module,Magento_User
+"Permissions","Разрешения",module,Magento_User
 "You cannot delete your own account.","You cannot delete your own account.",module,Magento_User
 "You have entered an invalid password for current user.","Вы ввели неправильный пароль для текущего пользователя.",module,Magento_User
 "You deleted the user.","You deleted the user.",module,Magento_User
@@ -15345,7 +15346,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "or call us at %store_phone","or call us at %store_phone",module,Magento_User
 "Thanks,","Thanks,",module,Magento_User
 "All Users","Все пользователи",module,Magento_User
-"User Roles","User Roles",module,Magento_User
+"User Roles","Роли пользователей",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Шаблон E-mail выбран на основе темы резервного варианта при выборе параметра «По умолчанию».",module,Magento_User
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_User
@@ -15518,7 +15519,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Priority Mail Express Flat Rate Boxes","Priority Mail Express Flat Rate Boxes",module,Magento_Usps
 "Priority Mail Express Flat Rate Boxes Hold For Pickup","Priority Mail Express Flat Rate Boxes Hold For Pickup",module,Magento_Usps
 "Priority Mail Express International Flat Rate Boxes","Priority Mail Express International Flat Rate Boxes",module,Magento_Usps
-"Custom Variables","Custom Variables",module,Magento_Variable
+"Custom Variables","Пользовательские переменные",module,Magento_Variable
 "Add New Variable","Add New Variable",module,Magento_Variable
 "Save and Continue Edit","Сохранить и продолжить редактирование",module,Magento_Variable
 "Custom Variable ""%1""","Custom Variable ""%1""",module,Magento_Variable
@@ -16419,3 +16420,17 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Customer Engagement","Привлечения клиентов"
 "Importer Status","Статус импортера"
 "Automation Enrollment","Автоматизация регистрации"
+"dotdigital Engagement Cloud","Хмарне dotdigital залучення",module,Dotdigitalgroup_Email
+"dotdigital Chat","dotdigital чат",module,Dotdigitalgroup_Email
+"Exclusion Rules","Правила виключення",module,Dotdigitalgroup_Email
+"Manage Posts","Управление публикациями",module,Mageplaza_Blog
+"Manage Tags","Управление тегами",module,Mageplaza_Blog
+"Manage Topics","Управление темами",module,Mageplaza_Blog
+"Manage Authors","Управление авторами",module,Mageplaza_Blog
+"Manage Comments","Управление комментариями",module,Mageplaza_Blog
+"Yotpo Analytics","Аналитика Yotpo",module,Yotpo_Yotpo
+"Campaign Sends","Отправка компании",module,Dotdigitalgroup_Email
+"SMS Sends","Отправка SMS",module,Dotdigitalgroup_Email
+"Cron Tasks","Задания по крону",module,Dotdigitalgroup_Email
+"Log Viewer","Просмотрщик журнала",module,Dotdigitalgroup_Email
+"Abandoned Carts","Брошенные корзины",module,Dotdigitalgroup_Email
