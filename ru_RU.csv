@@ -366,7 +366,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Something went wrong.","Что-то пошло не так.",module,Magento_AsynchronousOperations
 "Action Log","Журнал Транзакций",module,Magento_AsynchronousOperations
 "Report","Отчёт",module,Magento_AsynchronousOperations
-"Bulk Actions","Массовые Операции",module,Magento_AsynchronousOperations
+"Bulk Actions","Массовые операции",module,Magento_AsynchronousOperations
 "Action Logs","Журнал транзакций",module,Magento_AsynchronousOperations
 "Days Saved in Log","Дни, сохранённые в журнале",module,Magento_AsynchronousOperations
 "Description of Operation","Описание операции",module,Magento_AsynchronousOperations
@@ -8128,7 +8128,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Full Details","Полная информация",module,Magento_Logging
 "Index Management","Управление индексами",module,Magento_Logging
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_Logging
-"Bulk Actions","Массовые Операции",module,Magento_Logging
+"Bulk Actions","Массовые операции",module,Magento_Logging
 "Partners","Партнеры",module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
 "Platinum Partners","Platinum Partners",module,Magento_Marketplace
@@ -14390,7 +14390,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
 "Edit Tax Rate","Edit Tax Rate",module,Magento_Tax
 "You saved the tax rate.","You saved the tax rate.",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
+"Tax Rules","Налоговые правила",module,Magento_Tax
 "An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
 "The tax rule has been deleted.","The tax rule has been deleted.",module,Magento_Tax
 "This rule no longer exists.","Это правило не существует.",module,Magento_Tax
@@ -16420,9 +16420,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Customer Engagement","Привлечения клиентов"
 "Importer Status","Статус импортера"
 "Automation Enrollment","Автоматизация регистрации"
-"dotdigital Engagement Cloud","Хмарне dotdigital залучення",module,Dotdigitalgroup_Email
+"dotdigital Engagement Cloud","Облачное dotdigital привлечение",module,Dotdigitalgroup_Email
 "dotdigital Chat","dotdigital чат",module,Dotdigitalgroup_Email
-"Exclusion Rules","Правила виключення",module,Dotdigitalgroup_Email
+"Exclusion Rules","Правила исключения",module,Dotdigitalgroup_Email
 "Manage Posts","Управление публикациями",module,Mageplaza_Blog
 "Manage Tags","Управление тегами",module,Mageplaza_Blog
 "Manage Topics","Управление темами",module,Mageplaza_Blog
