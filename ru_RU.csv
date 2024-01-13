@@ -4433,7 +4433,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "Done","Выполнено",module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Выберите новый Товар для удаления и замены текущего Товар конфигурация.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Для достижения лучших результатов, добавлять атрибуты и значения атрибутов вТовар.",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Kонфигурируемый Товар позволять Клиент выбрать варианты (Пример: цвет рубашки). Вам нужно создать просто Товар для каждой конфигурации (Например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Kонфигурируемый товар позволяет клиенту выбрать варианты (Пример: цвет рубашки). Вам нужно создать просто товар для каждой конфигурации (Например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Конфигурации не могут быть созданы для стандартного Товар с загружаемыми файлами. Чтобы создать конфигурации, сначала удалите все загружаемые файлы.",module,Magento_ConfigurableProduct
 "Add Products Manually","Добавить продукты вручную",module,Magento_ConfigurableProduct
 "Create Configurations","Создание конфигураций",module,Magento_ConfigurableProduct
@@ -6087,8 +6087,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "inline","inline",module,Magento_Downloadable
 "Pending","Pending",module,Magento_Downloadable
 "Invoiced","Выставлен счет",module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
+"To enable the option set the weight to no","Чтобы включить эту опцию, установите вес на нет",module,Magento_Downloadable
+"Is this downloadable Product?","Это загружаемый продукт?",module,Magento_Downloadable
 "Links","Ссылки",module,Magento_Downloadable
 "Title","Заголовок",module,Magento_Downloadable
 "Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
@@ -12710,7 +12710,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
 "Apply To","Применять к",module,Magento_SalesRule
 "Conditions","Условия",module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Применяйте правило только в том случае, если выполняются следующие условия (оставьте пустым для всех продуктов).",module,Magento_SalesRule
 "Manage Coupon Codes","Manage Coupon Codes",module,Magento_SalesRule
 "Coupon Qty","Coupon Qty",module,Magento_SalesRule
 "Code Length","Code Length",module,Magento_SalesRule
