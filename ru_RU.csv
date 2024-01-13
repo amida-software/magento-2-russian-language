@@ -16434,3 +16434,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Cron Tasks","Задания по крону",module,Dotdigitalgroup_Email
 "Log Viewer","Просмотрщик журнала",module,Dotdigitalgroup_Email
 "Abandoned Carts","Брошенные корзины",module,Dotdigitalgroup_Email
+"Включити продукт","Включить продукт",module,Magento_Catalog
