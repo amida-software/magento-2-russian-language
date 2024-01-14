@@ -3616,7 +3616,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "To","До",module,Magento_Cms
 "New Theme","Новая тема",module,Magento_Cms
 "-- Please Select --","-- Выберите --",module,Magento_Cms
-"New Layout","New Layout",module,Magento_Cms
+"New Layout","Новый макет",module,Magento_Cms
 "Disable","Отключить",module,Magento_Cms
 "Enable","Включить",module,Magento_Cms
 "Custom design from","Custom design from",module,Magento_Cms
@@ -10115,14 +10115,14 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Autostart base video","Autostart base video",module,Magento_ProductVideo
 "Show related video","Show related video",module,Magento_ProductVideo
 "Auto restart video","Auto restart video",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideo
+"Images And Videos","Изображения и видео",module,Magento_ProductVideo
 "Click here to add videos.","Нажмите здесь, чтобы добавить видео.",module,Magento_ProductVideo
 "Add video","Add video",module,Magento_ProductVideo
 "Click here or drag and drop to add images.","Нажмите здесь, или перетащите изображения для добавления.",module,Magento_ProductVideo
 "Make Base","Make Base",module,Magento_ProductVideo
 "Delete image in all store views","Delete image in all store views",module,Magento_ProductVideo
 "The preview image information is unavailable. Check your connection and try again.","The preview image information is unavailable. Check your connection and try again.",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideoStaging
+"Images And Videos","Изображения и видео",module,Magento_ProductVideoStaging
 "Edit Catalog Price Rules","Изменение правила цен в каталоге",module,Magento_PromotionPermissions
 "Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edit Automated Email Reminder Rules",module,Magento_PromotionPermissions
@@ -11751,7 +11751,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "ANY","ЛЮБОЙ",module,Magento_Rule
 "TRUE","ПРАВДА",module,Magento_Rule
 "FALSE","ЛОЖЬ",module,Magento_Rule
-"If %1 of these conditions are %2:","If %1 of these conditions are %2:",module,Magento_Rule
+"If %1 of these conditions are %2:","Если %1 из этих условий %2:",module,Magento_Rule
 "Conditions Combination","Сочетание условий",module,Magento_Rule
 "Attribute Set","Набор атрибутов",module,Magento_Rule
 "Category","Категория",module,Magento_Rule
