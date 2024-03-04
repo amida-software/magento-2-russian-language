@@ -3980,7 +3980,7 @@ for the following reason:",module,Magento_Company
 "Sorry! You cannot delete this user: The user is the company admin.","Sorry! You cannot delete this user: The user is the company admin.",module,Magento_Company
 "Cannot Delete the Company Admin","Cannot Delete the Company Admin",module,Magento_Company
 "Done","Выполнено",module,Magento_Company
-"No results","No results",module,Magento_Company
+"No results","Ничего не найдено",module,Magento_Company
 "options","параметры",module,Magento_Company
 "Proceed","Proceed",module,Magento_Company
 "Change Company Status?","Change Company Status?",module,Magento_Company
