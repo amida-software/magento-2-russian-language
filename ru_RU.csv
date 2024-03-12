@@ -2897,7 +2897,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Attribute Set","Набор атрибутов",module,Magento_CatalogRule
 "SKU","Артикул",module,Magento_CatalogRule
 "Product","Товар",module,Magento_CatalogRule
-"Promotions","Продвижение",module,Magento_CatalogRule
+"Promotions","Акции",module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Мы обнаружили обновленные правила, которые не применяются. Нажмите ""Применить правила"", чтобы обновить каталог.",module,Magento_CatalogRule
 "We can't apply the rules.","We can't apply the rules.",module,Magento_CatalogRule
 "You deleted the rule.","Вы удалили правило.",module,Magento_CatalogRule
@@ -12739,7 +12739,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Status","Статус",module,Magento_SalesRule
 "%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
 "Coupons/Discounts","Coupons/Discounts",module,Magento_SalesRule
-"Promotions","Продвижение",module,Magento_SalesRule
+"Promotions","Акции",module,Magento_SalesRule
 "You deleted the rule.","Вы удалили правило.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","Мы не можем удалить правило прямо сейчас. Пожалуйста просмотрите журнал и повторите попытку.",module,Magento_SalesRule
 "We can't find a rule to delete.","Мы не можем найти правило для удаления.",module,Magento_SalesRule
